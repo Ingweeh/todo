@@ -1,0 +1,9 @@
+div{
+  font-size:xx-large;
+  background-color: white;
+  width: 200px;
+  border: 1px solid black;
+}
+.bg-red{
+  background-color: red;
+}
